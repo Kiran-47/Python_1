@@ -4,4 +4,4 @@ if grade >= 35:
 else:
     print("not passed")
 # Output: passed
-# Explanation: The code checks if the variable 'grade' is greater than or equal to
+# Explanation: The code checks if the variable 'grade' is greater than or equal to 35.
